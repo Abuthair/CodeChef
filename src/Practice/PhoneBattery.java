@@ -8,6 +8,8 @@ import java.util.Scanner;
  * @project CodeChef
  */
 public class PhoneBattery {
+    //hello
+
     public static void main(String[] args) {
         Scanner sc =  new Scanner(System.in);
         int testCase = sc.nextInt();
